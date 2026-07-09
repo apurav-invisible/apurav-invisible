@@ -179,7 +179,7 @@ below for yours, e.g. https://YOUR-PROJECT.vercel.app/api?username=...
 
 Reach out for collaborations, freelance work, or just to talk shop.
 
-<a href="www.linkedin.com/in/apurav-agarwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/apurav-agarwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.instagram.com/apurav_agarwal/"><img src="https://img.shields.io/badge/Instagram-Follow-8B5CF6?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="mailto:apuravagarwal19@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-22C55E?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://hermesworkspace.com"><img src="https://img.shields.io/badge/HermesWorkspace-Co--building-161B22?style=flat-square&logo=vercel&logoColor=white" /></a>
