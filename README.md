@@ -149,18 +149,19 @@ Desktop AI assistant with a 3-tier retrieval system, session-aware chat, and a n
 ## GitHub stats
 
 <!--
-NOTE: github-readme-stats.vercel.app (public instance) has been intermittently
-paused/rate-limited since Dec 2025. If these images break again, self-host
-your own instance (see instructions at bottom of file) and swap the domain
-below for yours, e.g. https://YOUR-PROJECT.vercel.app/api?username=...
+NOTE: Using self-hosted github-readme-stats instance on Vercel
+(my-readme-stats-git-main-apurav-invisibles-projects.vercel.app) instead of
+the public github-readme-stats.vercel.app, which was intermittently
+paused/rate-limited. Add PAT_1 env var in Vercel project settings to avoid
+GitHub API rate limits.
 -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=apurav-invisible&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=06B6D4&text_color=F0F6FC&ring_color=8B5CF6" width="49%" />
+<img src="https://my-readme-stats-git-main-apurav-invisibles-projects.vercel.app/api?username=apurav-invisible&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=06B6D4&text_color=F0F6FC&ring_color=8B5CF6" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=apurav-invisible&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=8B5CF6&currStreakLabel=06B6D4" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurav-invisible&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=F0F6FC&langs_count=8" width="49%" />
+<img src="https://my-readme-stats-git-main-apurav-invisibles-projects.vercel.app/api/top-langs/?username=apurav-invisible&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=F0F6FC&langs_count=8" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurav-invisible&theme=github-compact&hide_border=true&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=06B6D4" width="49%" />
 
 </div>
