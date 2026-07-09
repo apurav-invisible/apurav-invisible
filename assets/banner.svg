@@ -1,0 +1,90 @@
+<svg width="1500" height="500" viewBox="0 0 1500 500" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Apurav Agarwal — AI, Full-Stack, Building intelligent software</title>
+<defs>
+  <linearGradient id="bgFade" x1="0%" y1="0%" x2="100%" y2="100%">
+    <stop offset="0%" stop-color="#0D1117"/>
+    <stop offset="55%" stop-color="#0F1420"/>
+    <stop offset="100%" stop-color="#131022"/>
+  </linearGradient>
+  <linearGradient id="waveGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.55"/>
+    <stop offset="50%" stop-color="#8B5CF6" stop-opacity="0.45"/>
+    <stop offset="100%" stop-color="#06B6D4" stop-opacity="0.5"/>
+  </linearGradient>
+  <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.35"/>
+    <stop offset="50%" stop-color="#3B82F6" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0.35"/>
+  </linearGradient>
+  <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#3B82F6"/>
+    <stop offset="50%" stop-color="#8B5CF6"/>
+    <stop offset="100%" stop-color="#06B6D4"/>
+  </linearGradient>
+  <radialGradient id="glowBlue" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#3B82F6" stop-opacity="0.35"/>
+    <stop offset="100%" stop-color="#3B82F6" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowPurple" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0.3"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="glowCyan" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#06B6D4" stop-opacity="0"/>
+  </radialGradient>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+    <path d="M 48 0 L 0 0 0 48" fill="none" stroke="#8B949E" stroke-opacity="0.08" stroke-width="1"/>
+  </pattern>
+  <filter id="softBlur" x="-50%" y="-50%" width="200%" height="200%">
+    <feGaussianBlur stdDeviation="1.2"/>
+  </filter>
+</defs>
+
+<rect width="1500" height="500" fill="url(#bgFade)"/>
+<rect width="1500" height="500" fill="url(#grid)"/>
+
+<circle cx="1180" cy="140" r="260" fill="url(#glowPurple)"/>
+<circle cx="1350" cy="380" r="220" fill="url(#glowCyan)"/>
+<circle cx="1000" cy="400" r="200" fill="url(#glowBlue)"/>
+
+<path d="M 750 60 Q 1000 20 1250 90 T 1560 100" fill="none" stroke="url(#waveGrad)" stroke-width="2" opacity="0.7"/>
+<path d="M 700 460 Q 980 500 1260 430 T 1560 440" fill="none" stroke="url(#waveGrad2)" stroke-width="2" opacity="0.6"/>
+<path d="M 780 250 Q 1050 200 1320 260 T 1560 250" fill="none" stroke="url(#waveGrad)" stroke-width="1.5" opacity="0.4"/>
+
+<g opacity="0.55" filter="url(#softBlur)">
+  <circle cx="980" cy="150" r="3.5" fill="#3B82F6"/>
+  <circle cx="1090" cy="110" r="3" fill="#8B5CF6"/>
+  <circle cx="1200" cy="175" r="3.5" fill="#06B6D4"/>
+  <circle cx="1050" cy="230" r="2.5" fill="#8B5CF6"/>
+  <circle cx="1310" cy="120" r="3" fill="#3B82F6"/>
+  <circle cx="1250" cy="270" r="2.5" fill="#06B6D4"/>
+  <circle cx="1400" cy="200" r="3" fill="#8B5CF6"/>
+  <circle cx="1150" cy="320" r="2.5" fill="#3B82F6"/>
+  <circle cx="1420" cy="330" r="3" fill="#06B6D4"/>
+  <line x1="980" y1="150" x2="1090" y2="110" stroke="#8B5CF6" stroke-width="0.6" stroke-opacity="0.5"/>
+  <line x1="1090" y1="110" x2="1200" y2="175" stroke="#06B6D4" stroke-width="0.6" stroke-opacity="0.5"/>
+  <line x1="1090" y1="110" x2="1050" y2="230" stroke="#3B82F6" stroke-width="0.6" stroke-opacity="0.5"/>
+  <line x1="1200" y1="175" x2="1310" y2="120" stroke="#3B82F6" stroke-width="0.6" stroke-opacity="0.4"/>
+  <line x1="1200" y1="175" x2="1250" y2="270" stroke="#06B6D4" stroke-width="0.6" stroke-opacity="0.4"/>
+  <line x1="1310" y1="120" x2="1400" y2="200" stroke="#8B5CF6" stroke-width="0.6" stroke-opacity="0.4"/>
+  <line x1="1250" y1="270" x2="1150" y2="320" stroke="#3B82F6" stroke-width="0.6" stroke-opacity="0.35"/>
+  <line x1="1400" y1="200" x2="1420" y2="330" stroke="#06B6D4" stroke-width="0.6" stroke-opacity="0.35"/>
+</g>
+
+<g opacity="0.5" font-family="ui-monospace, Menlo, monospace" font-size="11" fill="#8B949E">
+  <text x="1230" y="410">const build = () =&gt; ship();</text>
+  <text x="960" y="360">async function deploy() {'{'}</text>
+  <text x="1310" y="440">status: "in progress"</text>
+</g>
+
+<rect x="960" y="80" width="180" height="90" rx="10" fill="#161B22" fill-opacity="0.4" stroke="#3B82F6" stroke-opacity="0.25" stroke-width="1"/>
+<rect x="1250" y="300" width="160" height="80" rx="10" fill="#161B22" fill-opacity="0.4" stroke="#8B5CF6" stroke-opacity="0.25" stroke-width="1"/>
+<rect x="1100" y="360" width="150" height="70" rx="10" fill="#161B22" fill-opacity="0.35" stroke="#06B6D4" stroke-opacity="0.25" stroke-width="1"/>
+
+<text x="90" y="215" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="76" font-weight="700" fill="url(#textGrad)">Apurav</text>
+<text x="90" y="270" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="24" font-weight="500" fill="#F0F6FC" letter-spacing="1.5">AI &#8226; Full-Stack &#8226; Open Source</text>
+<text x="90" y="315" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="16" font-weight="400" fill="#8B949E">Building intelligent software, one commit at a time.</text>
+
+<rect x="90" y="345" width="70" height="1" fill="#3B82F6" fill-opacity="0.4"/>
+</svg>
