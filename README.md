@@ -10,9 +10,8 @@
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-06B6D4?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="www.linkedin.com/in/apurav-agarwal"><img src="https://img.shields.io/badge/LinkedIn-3B82F6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/apurav_agarwal/"><img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 <a href="mailto:apuravagarwal19@gmail.com"><img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
@@ -149,10 +148,17 @@ Desktop AI assistant with a 3-tier retrieval system, session-aware chat, and a n
 
 ## GitHub stats
 
+<!--
+NOTE: github-readme-stats.vercel.app (public instance) has been intermittently
+paused/rate-limited since Dec 2025. If these images break again, self-host
+your own instance (see instructions at bottom of file) and swap the domain
+below for yours, e.g. https://YOUR-PROJECT.vercel.app/api?username=...
+-->
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=apurav-invisible&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=06B6D4&text_color=F0F6FC&ring_color=8B5CF6" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=apurav-invisible&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=8B5CF6&currStreakLabel=06B6D4" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=apurav-invisible&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=8B5CF6&currStreakLabel=06B6D4" width="49%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apurav-invisible&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=F0F6FC&langs_count=8" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=apurav-invisible&theme=github-compact&hide_border=true&bg_color=0D1117&color=3B82F6&line=8B5CF6&point=06B6D4" width="49%" />
@@ -173,9 +179,8 @@ Desktop AI assistant with a 3-tier retrieval system, session-aware chat, and a n
 
 Reach out for collaborations, freelance work, or just to talk shop.
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-Follow-8B5CF6?style=flat-square&logo=instagram&logoColor=white" /></a>
-<a href="https://x.com/YOUR-X-HANDLE"><img src="https://img.shields.io/badge/X-Follow-06B6D4?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="www.linkedin.com/in/apurav-agarwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-3B82F6?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/apurav_agarwal/"><img src="https://img.shields.io/badge/Instagram-Follow-8B5CF6?style=flat-square&logo=instagram&logoColor=white" /></a>
 <a href="mailto:apuravagarwal19@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-22C55E?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://hermesworkspace.com"><img src="https://img.shields.io/badge/HermesWorkspace-Co--building-161B22?style=flat-square&logo=vercel&logoColor=white" /></a>
 
